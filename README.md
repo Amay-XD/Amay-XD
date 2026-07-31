@@ -54,7 +54,13 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 <div align="center">
 
-No public repositories yet — check back soon
+<div align="center">
+
+[![ReconMind](https://img.shields.io/badge/ReconMind-00ff9c?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iYmxhY2siPjxwYXRoIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyem0wIDE4Yy00LjQxIDAtOC0zLjU5LTgtOHMzLjU5LTggOC04IDggMy41OSA4IDgtMy41OSA4LTggOHoiLz48L3N2Zz4=&logoColor=black&labelColor=0d1117)](https://lnkd.in/p/dbgG7_At)
+
+**ReconMind** — an AI-powered OSINT Intelligence Engine
+
+</div>
 
 </div>
 
