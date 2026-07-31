@@ -85,11 +85,14 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 ## Contact
 
 <code>$ establish --secure-channel</code>
+<div align="center">
 
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />](https://github.com/Amay-XD)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](www.linkedin.com/in/amay-jogdand)
-[<img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" />](mailto:amayx1710@gmail.com)
-[<img alt="X" src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" />](https://x.com/Amay_Jogdand_17)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/Amay-XD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/amay-jogdand)
+[![X](https://img.shields.io/badge/X-00ff9c?style=for-the-badge&logo=x&logoColor=black&labelColor=0d1117)](https://x.com/Amay_Jogdand_17)
+[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:amayx1710@gmail.com)
+
+</div>
 
 </div>
 
