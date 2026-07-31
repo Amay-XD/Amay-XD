@@ -1,5 +1,3 @@
-<!-- Purpose: generated GitHub profile README. Edit README.template.md, then run scripts/generate_readme.py. -->
-
 <!-- Purpose: static template for the generated GitHub profile README. -->
 
 <div align="center">
@@ -55,11 +53,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 </div>
 
-<div align="center">
-
-No public repositories yet — check back soon
-
-</div>
+{{FEATURED_PROJECTS}}
 
 ---
 

@@ -1,0 +1,1 @@
+# Purpose: declare runtime dependencies for the README generator (standard library only).

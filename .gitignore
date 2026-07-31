@@ -1,0 +1,4 @@
+# Purpose: exclude Python bytecode and local environment files from the profile repository.
+__pycache__/
+*.py[cod]
+.venv/
