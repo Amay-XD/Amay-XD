@@ -4,8 +4,6 @@
 
 <div align="center">
 
-# Amay Jogdand
-
 <code>┌──(kali㉿github)-[~]</code>
 
 <picture>
@@ -68,7 +66,7 @@ No public repositories yet — check back soon
 
 <code>$ verify --certifications</code>
 
-[<img alt="View Certifications on LinkedIn" src="https://img.shields.io/badge/View%20Certifications%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_CERTIFICATIONS_URL_HERE)
+[<img alt="View Certifications on LinkedIn" src="https://img.shields.io/badge/View%20Certifications%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](https://www.linkedin.com/in/amay-jogdand/details/certifications/)
 
 </div>
 
@@ -81,9 +79,9 @@ No public repositories yet — check back soon
 <code>$ establish --secure-channel</code>
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />](https://github.com/Amay-XD)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_URL_HERE)
-[<img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" />](mailto:EMAIL_ADDRESS_HERE)
-[<img alt="X" src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" />](https://x.com/X_HANDLE_HERE)
+[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](www.linkedin.com/in/amay-jogdand)
+[<img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" />](mailto:amayx1710@gmail.com)
+[<img alt="X" src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" />](https://x.com/Amay_Jogdand_17)
 
 </div>
 
