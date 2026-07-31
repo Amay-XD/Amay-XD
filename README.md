@@ -90,7 +90,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 [![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/Amay-XD)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/amay-jogdand)
 [![X](https://img.shields.io/badge/X-00ff9c?style=for-the-badge&logo=x&logoColor=black&labelColor=0d1117)](https://x.com/Amay_Jogdand_17)
-[![Email](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:amayx1710@gmail.com)
+[![amayx1710@gmail.com](https://img.shields.io/badge/Email-00ff9c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:amayx1710@gmail.com)
 
 </div>
 
