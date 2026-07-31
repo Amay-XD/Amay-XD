@@ -6,29 +6,24 @@
 
 # Amay Jogdand
 
-```text
-┌──(kali㉿github)-[~]
-└─$ whoami
-Amay Jogdand
+<code>┌──(kali㉿github)-[~]</code>
 
-┌──(kali㉿github)-[~]
-└─$ cat skills.txt
-Python
-Kali Linux
-OSINT
-GRC
-Ethical Hacking
-Offensive & defensive tool building
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=1600&amp;pause=700&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=190&amp;lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
+  <img alt="Kali terminal animation: whoami returns Amay Jogdand; cat skills.txt returns Python, Kali Linux, OSINT, GRC, Ethical Hacking, and Offensive and Defensive Tool Building." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=1600&amp;pause=700&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=190&amp;lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
+</picture>
 
-┌──(kali㉿github)-[~]
-└─$
-```
+<code>└──</code>
+
+<sub>cybersecurity student · security research · tool builder</sub>
 
 </div>
 
 ---
 
 ## About Me
+
+`$ cat about.txt`
 
 I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and Security Research. I build practical offensive, defensive, FinSec, and OSINT tools. I focus on responsible security work and learning through hands-on research.
 
@@ -37,6 +32,8 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 <div align="center">
 
 ## Skills
+
+<code>$ ls /opt/toolkit</code>
 
 <img alt="Python" src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff9c" />
 <img alt="Kali Linux" src="https://img.shields.io/badge/Kali%20Linux-0d1117?style=for-the-badge&logo=kalilinux&logoColor=00ff9c" />
@@ -53,6 +50,8 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 ## Featured Projects
 
+<code>$ ./recon --public-repositories</code>
+
 </div>
 
 <div align="center">
@@ -67,6 +66,8 @@ No public repositories yet — check back soon
 
 ## Certifications
 
+<code>$ verify --certifications</code>
+
 [<img alt="View Certifications on LinkedIn" src="https://img.shields.io/badge/View%20Certifications%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_CERTIFICATIONS_URL_HERE)
 
 </div>
@@ -76,6 +77,8 @@ No public repositories yet — check back soon
 <div align="center">
 
 ## Contact
+
+<code>$ establish --secure-channel</code>
 
 [<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />](https://github.com/Amay-XD)
 [<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_URL_HERE)

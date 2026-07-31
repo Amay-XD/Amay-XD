@@ -5,27 +5,21 @@
 from __future__ import annotations
 
 from .github_api import Repository
-from .render import escape_html, format_updated, truncate
+from .render import escape_html, truncate
 
 
 def _render_card(repository: Repository) -> str:
     """Render exactly one featured-project card as a safe HTML table row."""
     description = truncate(repository.description or "No description provided.")
-    language = repository.language or "Not specified"
     link = (
         f'<a href="{escape_html(repository.url)}">'
         f"<strong>{escape_html(repository.name)}</strong></a>"
-    )
-    metadata = (
-        f"{escape_html(language)} · ⭐ {repository.stars} · "
-        f"{format_updated(repository.updated_at)}"
     )
     return (
         "  <tr>\n"
         "    <td>\n"
         f"      {link}<br />\n"
-        f"      {escape_html(description)}<br />\n"
-        f"      <sub>{metadata}</sub>\n"
+        f"      {escape_html(description)}\n"
         "    </td>\n"
         "  </tr>"
     )
