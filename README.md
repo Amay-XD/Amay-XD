@@ -58,6 +58,10 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 <br>
 
+<div align="center">
+
+## REPOS
+
 <code>$ ./recon --public-repositories</code>
 
 <div align="center">
