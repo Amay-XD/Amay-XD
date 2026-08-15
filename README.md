@@ -75,7 +75,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
   </tr>
    <tr>
     <td>
-      <a href="https://github.com/Amay-XD/Reconmind-CLI"><strong>ReconMind</strong></a><br />
+      <a href="https://github.com/Amay-XD/Reconmind-CLI"><strong>ReconMind CLI</strong></a><br />
       AI-powered Advanced OSINT Intelligence CLI Engine<br />
       <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
     </td>
