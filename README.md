@@ -1,21 +1,19 @@
 <!-- Purpose: generated GitHub profile README. Edit README.template.md, then run scripts/generate_readme.py. -->
 
-<!-- Purpose: static template for the generated GitHub profile README. -->
-
 <div align="center">
-
-# Amay Jogdand
 
 <code>┌──(kali㉿github)-[~]</code>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=1600&amp;pause=700&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=190&amp;lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
-  <img alt="Kali terminal animation: whoami returns Amay Jogdand; cat skills.txt returns Python, Kali Linux, OSINT, GRC, Ethical Hacking, and Offensive and Defensive Tool Building." src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=500&amp;size=16&amp;duration=1600&amp;pause=700&amp;color=00FF9C&amp;center=true&amp;vCenter=true&amp;width=820&amp;height=190&amp;lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1600&pause=700&color=00FF9C&center=true&vCenter=true&width=820&height=190&lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
+  <img alt="Kali terminal animation: whoami returns Amay Jogdand; cat skills.txt returns Python, Kali Linux, OSINT, GRC, Ethical Hacking, and Offensive and Defensive Tool Building." src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=1600&pause=700&color=00FF9C&center=true&vCenter=true&width=820&height=190&lines=%E2%94%94%E2%94%80%24+whoami%3BAmay+Jogdand%3B%3B%E2%94%94%E2%94%80%24+cat+skills.txt%3BPython+%7C+Kali+Linux+%7C+OSINT+%7C+GRC%3BEthical+Hacking+%7C+Offensive+%26+Defensive+Tool+Building%3B%3B%E2%94%94%E2%94%80%24" />
 </picture>
 
-<code>└──</code>
-
 <sub>cybersecurity student · security research · tool builder</sub>
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=Amay-XD&color=00ff9c&style=for-the-badge&label=VISITORS)
 
 </div>
 
@@ -50,40 +48,54 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 ## Featured Projects
 
+<code>$ ./recon --spotlight</code>
+
+### ReconMind
+**AI-powered OSINT Intelligence Engine**
+
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-00ff9c?style=for-the-badge&labelColor=0d1117)](https://reconmind.vercel.app/)
+[![Featured Post](https://img.shields.io/badge/🔗_Featured_Post-00ff9c?style=for-the-badge&labelColor=0d1117)](https://lnkd.in/p/dbgG7_At)
+
+<br>
+
 <code>$ ./recon --public-repositories</code>
 
-</div>
-
+<div align="center">
 <div align="center">
 
+## REPOS
 <table>
 <tbody>
   <tr>
     <td>
-      <a href="https://github.com/Amay-XD/Reconmind"><strong>Reconmind</strong></a><br />
-      ReconMind — an AI-powered OSINT Intelligence Engine
+      <a href="https://github.com/Amay-XD/Reconmind"><strong>ReconMind</strong></a><br />
+      AI-powered OSINT Intelligence Engine<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Amay-XD/BreachAlpha"><strong>BreachAlpha</strong></a><br />
-      BreachAlpha — an AI-powered Breach-to-Market Impact Engine
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Amay-XD/Reconmind-CLI"><strong>Reconmind-CLI</strong></a><br />
-      ReconMind-CLI — an Advanced AI-powered OSINT Intelligence CLI Engine
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Amay-XD/Amay-XD"><strong>Amay-XD</strong></a><br />
-      No description provided.
+      AI-powered Breach-to-Market Impact Engine<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
     </td>
   </tr>
 </tbody>
 </table>
+
+</div>
+
+</div>
+
+---
+
+<div align="center">
+
+## GitHub Activity
+
+<code>$ tail -f /var/log/activity.log</code>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amay-XD&theme=react-dark&bg_color=0d1117&color=00ff9c&line=00ff9c&point=ffffff&hide_border=true&area=true" width="95%" />
 
 </div>
 
@@ -95,7 +107,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 <code>$ verify --certifications</code>
 
-[<img alt="View Certifications on LinkedIn" src="https://img.shields.io/badge/View%20Certifications%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_CERTIFICATIONS_URL_HERE)
+[<img alt="View Certifications on LinkedIn" src="https://img.shields.io/badge/View%20Certifications%20on%20LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](https://www.linkedin.com/in/amay-jogdand/details/certifications/)
 
 </div>
 
@@ -107,11 +119,15 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 <code>$ establish --secure-channel</code>
 
-[<img alt="GitHub" src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=00ff9c" />](https://github.com/Amay-XD)
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin&logoColor=00ff9c" />](LINKEDIN_URL_HERE)
-[<img alt="Email" src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00ff9c" />](mailto:EMAIL_ADDRESS_HERE)
-[<img alt="X" src="https://img.shields.io/badge/X-0d1117?style=for-the-badge&logo=x&logoColor=00ff9c" />](https://x.com/X_HANDLE_HERE)
+[![GitHub](https://img.shields.io/badge/GitHub-00ff9c?style=for-the-badge&logo=github&logoColor=black&labelColor=0d1117)](https://github.com/Amay-XD)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-00ff9c?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117)](https://www.linkedin.com/in/amay-jogdand)
+[![X](https://img.shields.io/badge/X-00ff9c?style=for-the-badge&labelColor=0d1117)](https://x.com/Amay_Jogdand_17)
+[![amayx1710@gmail.com](https://img.shields.io/badge/amayx1710@gmail.com-00ff9c?style=for-the-badge&logo=gmail&logoColor=black&labelColor=0d1117)](mailto:amayx1710@gmail.com)
 
 </div>
 
-<!-- TODO: replace LINKEDIN_CERTIFICATIONS_URL_HERE, LINKEDIN_URL_HERE, EMAIL_ADDRESS_HERE, and X_HANDLE_HERE before sharing this profile. -->
+<sub align="center">
+
+`$ exit`
+
+</sub>
