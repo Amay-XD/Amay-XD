@@ -61,30 +61,35 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 <code>$ ./recon --public-repositories</code>
 
 <div align="center">
-<div align="center">
 
-## REPOS
 <table>
 <tbody>
   <tr>
     <td>
-      <a href="https://github.com/Amay-XD/Reconmind"><strong>ReconMind</strong></a><br />
-      AI-powered OSINT Intelligence Engine<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
-    </td>
-  </tr>
-   <tr>
-    <td>
-      <a href="https://github.com/Amay-XD/Reconmind-CLI"><strong>ReconMind CLI</strong></a><br />
-      AI-powered Advanced OSINT Intelligence CLI Engine<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
+      <a href="https://github.com/Amay-XD/Reconmind"><strong>Reconmind</strong></a><br />
+      ReconMind — an AI-powered OSINT Intelligence Engine<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Aug 2026</sub>
     </td>
   </tr>
   <tr>
     <td>
       <a href="https://github.com/Amay-XD/BreachAlpha"><strong>BreachAlpha</strong></a><br />
-      AI-powered Breach-to-Market Impact Engine<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Jul 2026</sub>
+      BreachAlpha — an AI-powered Breach-to-Market Impact Engine<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Aug 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Amay-XD/Reconmind-CLI"><strong>Reconmind-CLI</strong></a><br />
+      ReconMind-CLI — an Advanced AI-powered OSINT Intelligence CLI Engine<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; Updated Aug 2026</sub>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://github.com/Amay-XD/Amay-XD"><strong>Amay-XD</strong></a><br />
+      No description provided.<br />
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; Updated Aug 2026</sub>
     </td>
   </tr>
 </tbody>
