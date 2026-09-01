@@ -75,7 +75,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
     <td>
       <a href="https://github.com/Amay-XD/BreachAlpha"><strong>BreachAlpha</strong></a><br />
       BreachAlpha — an AI-powered Breach-to-Market Impact Engine<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Aug 2026</sub>
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Sep 2026</sub>
     </td>
   </tr>
   <tr>
