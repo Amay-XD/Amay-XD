@@ -89,7 +89,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
     <td>
       <a href="https://github.com/Amay-XD/Amay-XD"><strong>Amay-XD</strong></a><br />
       No description provided.<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; Updated Aug 2026</sub>
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 0 &nbsp;·&nbsp; Updated Sep 2026</sub>
     </td>
   </tr>
 </tbody>
