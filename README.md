@@ -68,7 +68,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
     <td>
       <a href="https://github.com/Amay-XD/Reconmind"><strong>Reconmind</strong></a><br />
       ReconMind — an AI-powered OSINT Intelligence Engine<br />
-      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Aug 2026</sub>
+      <sub>🗂 Python &nbsp;·&nbsp; ⭐ 1 &nbsp;·&nbsp; Updated Sep 2026</sub>
     </td>
   </tr>
   <tr>
