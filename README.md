@@ -51,7 +51,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 <code>$ ./recon --spotlight</code>
 
 ### ReconMind
-**AI-powered OSINT Intelligence Engine**
+**an AI-powered OSINT Intelligence Engine**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-00ff9c?style=for-the-badge&labelColor=0d1117)](https://reconmind.vercel.app/)
 [![Featured Post](https://img.shields.io/badge/🔗_Featured_Post-00ff9c?style=for-the-badge&labelColor=0d1117)](https://lnkd.in/p/dbgG7_At)
@@ -60,7 +60,7 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 
 ### Breach Alpha
-**AI-powered OSINT Intelligence Engine**
+**an AI-powered Breach-to-Market Impact Engine**
 
 [![Live Site](https://img.shields.io/badge/🌐_Live_Site-00ff9c?style=for-the-badge&labelColor=0d1117)](https://breachalpha.vercel.app/)
 [![Featured Post](https://img.shields.io/badge/🔗_Featured_Post-00ff9c?style=for-the-badge&labelColor=0d1117)](https://lnkd.in/p/dfi_GPWu)
