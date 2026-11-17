@@ -58,6 +58,23 @@ I am a cybersecurity student passionate about Linux, Ethical Hacking, OSINT, and
 
 <br>
 
+
+### Breach Alpha
+**AI-powered OSINT Intelligence Engine**
+
+[![Live Site](https://img.shields.io/badge/🌐_Live_Site-00ff9c?style=for-the-badge&labelColor=0d1117)](https://breachalpha.vercel.app/)
+[![Featured Post](https://img.shields.io/badge/🔗_Featured_Post-00ff9c?style=for-the-badge&labelColor=0d1117)](https://lnkd.in/p/dfi_GPWu)
+
+<br>
+
+
+---
+
+<div align="center">
+
+## Repositories
+
+
 <code>$ ./recon --public-repositories</code>
 
 <div align="center">
